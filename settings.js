@@ -8,12 +8,12 @@ global.roflix2 = 'http://roflix.my.id/'
 global.roflix = 'https://roflixzy.vercel.app/'
 global.linkgc = 'https://chat.whatsapp.com/Gr6Wy6OoRTP00YmV0x6pHr'
 global.userB = []
-global.ownerNumber = ['6283815956151','6283815956151']
+global.ownerNumber = ['6281908052908']
 global.ownerNumber2 = '+6283815956151'
-global.packname = 'RoF3X-MD'
-global.author = '© FxSx'
+global.packname = 'Pake Bot'
+global.author = 'XaviorOfc'
 global.prefa = ['','!','#','&','/','.']
-global.sessionName = 'sesi'
+global.sessionName = 'sesisson'
 global.mess = {
   admin: '*Fitur Khusus Admin Grup*',
   botAdmin: '*Jadikan Bot Admin Terlebih Dahulu*',
