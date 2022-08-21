@@ -13,7 +13,7 @@ global.ownerNumber2 = '+6283815956151'
 global.packname = 'Pake Bot'
 global.author = 'XaviorOfc'
 global.prefa = ['','!','#','&','/','.']
-global.sessionName = 'sesisson'
+global.sessionName = 'session'
 global.mess = {
   admin: '*Fitur Khusus Admin Grup*',
   botAdmin: '*Jadikan Bot Admin Terlebih Dahulu*',
